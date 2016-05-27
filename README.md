@@ -2,7 +2,7 @@
 
 #### _SHORT DESCRIPTION, May 27, 2016_
 
-#### By _**Nick Lyman**_
+#### By **Inthrayuth Mahaphol**
 
 ## Description
 
@@ -10,7 +10,7 @@ _DETAILED DESCRIPTION_
 
 ## Setup/Installation Requirements
 
-* _Link to repository: https://github.com/nicklyman/ADD_REPO_NAME.git_
+* _Link to repository: https://github.com/inthra_
 * _Clone or download this repository to your Github account_
 * _Create a project directory on your computer_
 * _Have Node.js installed on your computer_
@@ -49,4 +49,4 @@ _If a bug is found, please let me know via Github. Feel free to contact me with 
 
 *This software is licensed under the MIT license*
 
-Copyright (c) 2016 **_Nick Lyman_**
+Copyright (c) 2016 Inthrayuth M.
