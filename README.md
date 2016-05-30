@@ -1,52 +1,50 @@
 # _PROJECT NAME_
 
-#### _SHORT DESCRIPTION, May 27, 2016_
+#### SHORT DESCRIPTION, May 30, 2016
 
 #### By **Inthrayuth Mahaphol**
 
 ## Description
 
-_DETAILED DESCRIPTION_
+DETAILED DESCRIPTION
 
 ## Setup/Installation Requirements
 
-* _Link to repository: https://github.com/inthra_
-* _Clone or download this repository to your Github account_
-* _Create a project directory on your computer_
-* _Have Node.js installed on your computer_
-* _In your terminal run npm install, then bower_install, then gulp build, and then gulp_serve_
-* _A local web server should automatically open in your browser with the website loaded if you have a browser open_
+* Link to repository: https://github.com/inthra
+* Clone or download this repository to your Github account
+* Create a project directory on your computer
+* Install Node.js on your computer
+* In your terminal run "npm install", "bower install", "gulp build", and "gulp serve"
+* A local web server should automatically open in your browser if you run "gulp serve". If you run "gulp build" only, you need to open a browser manually.
 
 ## Setup API Requirements
 
-* _Anyone who uses the app will need their own key in a local file with the same filename and location._
+* Anyone who uses the app will need their own key in a local file with the same filename and location.
 
-* _Create a file in the top level of your project directory called .env (hidden file) to hold our API key. This is a common file extension for a configuration file used to set up environmental variables. Paste your API key in your .env file that you just created and store it in an exported property named apiKey._
+* Create a file in the top level of your project directory called .env (hidden file) to hold our API key. This is a common file extension for a configuration file used to set up environmental variables. Paste your API key in your .env file that you just created and store it in an exported property named apiKey.
 
-* _API key .env file example:_
-**exports.apiKey = "YOUR-API-KEY-GOES-HERE";**
+* API key .env file example: **exports.apiKey = "YOUR-API-KEY";**
 
-* _In your .js file (JavaScript file) that gets access to the API key, add the following requirement:_
-**var apiKey = require('./../.env').apiKey;**
+* In your JavaScript file that gets access to the API key, add the following requirement: **var apiKey = require('./../.env').apiKey;**
 
 ## Known Bugs
 
-_KNOWN BUGS IF ANY, OTHERWISE NONE_
+If a bug is found, please let me know via Github.
 
 ## Support and contact details
 
-_If a bug is found, please let me know via Github. Feel free to contact me with questions or suggestions and contribute to the code._
+Feel free to contact me with questions or suggestions.
 
 ## Technologies Used
 
-* _Git_
-* _Github_
-* _Atom text editor_
-* _JavaScript_
-* _Node.js - including npm and bower_
+* Git and GitHub
+* Atom text editor
+* Html, CSS, Bootstrap
+* JavaScript, jQuery
+* Node.js - including npm and bower
 
 ### License
 
-*This software is licensed under the MIT license*
+_This software is licensed under the MIT license_
 
 Copyright (c) 2016 Inthrayuth M.
